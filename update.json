@@ -1,0 +1,15 @@
+{
+  "homepage": "<homepage/download page for your mod>",
+  "<mcversion>": 1.17.1{
+    "<modversion>": "<changelog for this version>", 
+    // List all versions of your mod for the given Minecraft version, along with their changelogs
+    ...
+  },
+  "promos": {
+    "<mcversion>-latest": "0.0.1",
+    // Declare the latest "bleeding-edge" version of your mod for the given Minecraft version
+    "<mcversion>-recommended": "0.0.1",
+    // Declare the latest "stable" version of your mod for the given Minecraft version
+    ...
+  }
+}
